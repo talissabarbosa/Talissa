@@ -1,0 +1,6 @@
+git checkout -b style
+git status
+git checkout -b<branch name>
+git branch <branch name >
+git checkout <branch name>
+  git status
